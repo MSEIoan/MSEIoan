@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MSEIoan
+- 👀 I’m interested in playing video games and learning new skills in every domain!
+- 🌱 I’m currently learning Java!
+- 📫 My e-mail is: ionutmoise0702@gmail.com
+- ⚡ Fun fact: I challenged my self to learn Java using ChatGPT! So far it is working well!
